@@ -1,6 +1,6 @@
 # The number we will perform the collatz operation on. practice
 
-n = 22
+n = 23
 
 while n != 1:
     print(n)
